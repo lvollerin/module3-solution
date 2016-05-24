@@ -50,11 +50,12 @@ button.navbar-toggle:hover {
 
 button.navbar-toggle:
 
-.navbar-nav > li > a {
+.navbar-default .navbar-nav > li > a {
   background-color: aliceblue;
 }
 .navbar-default .navbar-nav>li>a {
     color: black;
+    background-color: aliceblue;
 }
 
 .navbar-default .navbar-brand {
